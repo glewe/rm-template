@@ -14,8 +14,6 @@ Rainmeter is a metering software for Windows. It measures certain system values,
  - Three size variants of each skin
 
 ## Links
-[Documentation](https://support.lewe.com/doc/rainmeter-skin-template/)
-
 [Homepage](https://www.lewe.com/)
 
 [Support](https://support.lewe.com/)
